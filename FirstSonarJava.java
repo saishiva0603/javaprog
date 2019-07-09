@@ -1,4 +1,3 @@
-package com.muthu4all.sonarqube;
 
 import java.io.File;
 import java.io.IOException;
