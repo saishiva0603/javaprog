@@ -11,10 +11,10 @@ public class FirstSonarJava {
 	public static void main(String[] args) {
 		String MayBeNull = null;
 		System.out.println("Hello SonarQube "+MayBeNull);
-		 
+		//not a shiva sai
 	
 		for (char i = 10; i < 15; i++) { 
-			System.out.println("Loop not true even once");
+			System.out.println("Loop not true ok even once");
 		}
 			
 	}
