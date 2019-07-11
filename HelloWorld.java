@@ -5,7 +5,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
 
         for(int i<10; i=10;i++){
-	//not valid	
+	
 	System.out.println("Hello, World");
 	}
 	}
