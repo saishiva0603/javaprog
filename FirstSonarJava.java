@@ -13,7 +13,7 @@ public class FirstSonarJava {
 		System.out.println("Hello SonarQube "+MayBeNull);
 		 
 		//not a shiva sai
-		for (int i = 10; i < 15; i++) { 
+		for (char i = 10; i < 15; i++) { 
 			System.out.println("Loop not true even once");
 		}
 			
