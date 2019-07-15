@@ -1,2 +1,2 @@
-# javaprog
+# javapro
 java prog to learn
