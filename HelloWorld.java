@@ -1,12 +1,18 @@
-
-public class HelloWorld {
-
-    public static void main(String[] args) {
-       
-	 //for
-        for(int i=-1;i<10;i++){
-	
-	System.out.println("Hello, World");
-	}
-	}
+import java.util.Scanner;
+ 
+class AddNumbers
+{
+   public static void main(String args[])
+   {
+      int x, y, z;
+ 
+      System.out.println("Enter two integers to calculate their sum");
+      Scanner in = new Scanner(System.in);
+     
+      x = in.nextInt();
+      y = in.nextInt();
+      z = x + y;
+     
+      System.out.println("Sum of the integers = " + z);
+   }
 }
